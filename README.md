@@ -1,6 +1,22 @@
                                         
                                         Que hay nuevo¡¡¡¡
 
+FUTURO: propio centro de msm para una relación mas comoda
+
+
+
+29/11/2013
+
+-Versión beta del programa con:
+
+        *Descarga de folletos en el movil desde qr
+        *Lista de compra
+        *descarga de lista en movil desde qr y gmail
+        *impresion de la lista de compra
+        *actualizaciones de programa y de folletos(uno a uno o full)
+        *prgrama y folletos sabe cocuando existe una nueva actualización
+        
+__________________________________________________________________________________
 
 03/11/2013
 
